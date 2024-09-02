@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2410846ee3da0504dbb787da83565b24
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203601
+  packageName: Doozy UI Manager
+  packageVersion: 4.8.1
+  assetPath: Assets/Doozy/Runtime/Colors/Models/HSL.cs
+  uploadId: 556278

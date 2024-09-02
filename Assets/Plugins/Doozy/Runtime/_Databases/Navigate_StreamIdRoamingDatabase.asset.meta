@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: beecd8c377d3e88438ed5540a969b3ce
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203601
+  packageName: Doozy UI Manager
+  packageVersion: 4.8.1
+  assetPath: Assets/Doozy/Runtime/_Databases/Navigate_StreamIdRoamingDatabase.asset
+  uploadId: 556278

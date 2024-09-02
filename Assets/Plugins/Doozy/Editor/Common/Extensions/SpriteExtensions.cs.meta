@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: af0250325505413e8662e4f767fa2bdc
+timeCreated: 1645199395
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203601
+  packageName: Doozy UI Manager
+  packageVersion: 4.8.1
+  assetPath: Assets/Doozy/Editor/Common/Extensions/SpriteExtensions.cs
+  uploadId: 556278

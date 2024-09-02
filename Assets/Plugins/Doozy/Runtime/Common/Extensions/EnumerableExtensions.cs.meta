@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: ba308228f39843d08d5844fbacbb76ab
+timeCreated: 1620325985
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203601
+  packageName: Doozy UI Manager
+  packageVersion: 4.8.1
+  assetPath: Assets/Doozy/Runtime/Common/Extensions/EnumerableExtensions.cs
+  uploadId: 556278

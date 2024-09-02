@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 975b7485e2e853a45bb78df3235a5725
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203601
+  packageName: Doozy UI Manager
+  packageVersion: 4.8.1
+  assetPath: Assets/Doozy/Runtime/Data/UIAnimationPresets/Hide_Jelly_06.asset
+  uploadId: 556278

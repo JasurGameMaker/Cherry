@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: b6b6ae4ca58648c79ccb6a54a34a7d73
+timeCreated: 1623080114
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203601
+  packageName: Doozy UI Manager
+  packageVersion: 4.8.1
+  assetPath: Assets/Doozy/Editor/EditorUI/Components/ObjectFluidListViewItem.cs
+  uploadId: 556278

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 65d165846452e284f9daf7e67df66cc8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203601
+  packageName: Doozy UI Manager
+  packageVersion: 4.8.1
+  assetPath: Assets/Doozy/_Extras/Prefabs/Components/Button/General/Gamepad.prefab
+  uploadId: 556278

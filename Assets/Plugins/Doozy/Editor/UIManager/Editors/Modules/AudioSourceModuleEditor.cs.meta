@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 7b1e0ef47de14e148dac233f932fcb2e
+timeCreated: 1624984407
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203601
+  packageName: Doozy UI Manager
+  packageVersion: 4.8.1
+  assetPath: Assets/Doozy/Editor/UIManager/Editors/Modules/AudioSourceModuleEditor.cs
+  uploadId: 556278

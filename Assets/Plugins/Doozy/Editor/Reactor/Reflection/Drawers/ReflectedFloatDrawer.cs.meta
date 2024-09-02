@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: d79607dd0faa4e9582bc1e8cdbb4de41
+timeCreated: 1648228159
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203601
+  packageName: Doozy UI Manager
+  packageVersion: 4.8.1
+  assetPath: Assets/Doozy/Editor/Reactor/Reflection/Drawers/ReflectedFloatDrawer.cs
+  uploadId: 556278

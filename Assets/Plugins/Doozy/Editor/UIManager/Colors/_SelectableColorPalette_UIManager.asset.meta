@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e3368aef9e2081e44ad8fe598d8bbbd9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203601
+  packageName: Doozy UI Manager
+  packageVersion: 4.8.1
+  assetPath: Assets/Doozy/Editor/UIManager/Colors/_SelectableColorPalette_UIManager.asset
+  uploadId: 556278

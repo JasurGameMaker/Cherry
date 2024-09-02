@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 94ebcb82b12f1d24dace8703367799ee
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203601
+  packageName: Doozy UI Manager
+  packageVersion: 4.8.1
+  assetPath: Assets/Doozy/Editor/Mody/Editor/_StyleGroup_Mody.asset
+  uploadId: 556278

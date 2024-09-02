@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f2a77e09f8e5cfb4599f2b5da08dc0de
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203601
+  packageName: Doozy UI Manager
+  packageVersion: 4.8.1
+  assetPath: Assets/Doozy/_Extras/UIMenu/Items/Menu Item - Components - Button Basic
+    - Flex Button.asset
+  uploadId: 556278

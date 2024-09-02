@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ce37555b4739a97478558c297e53691e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203601
+  packageName: Doozy UI Manager
+  packageVersion: 4.8.1
+  assetPath: Assets/Doozy/_Extras/Prefabs/Components/Button/General/Undo.prefab
+  uploadId: 556278

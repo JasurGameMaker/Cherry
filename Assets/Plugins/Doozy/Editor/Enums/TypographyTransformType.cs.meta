@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: f9a41c6157e049c8a0579f850252a77a
+timeCreated: 1611577894
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203601
+  packageName: Doozy UI Manager
+  packageVersion: 4.8.1
+  assetPath: Assets/Doozy/Editor/Enums/TypographyTransformType.cs
+  uploadId: 556278

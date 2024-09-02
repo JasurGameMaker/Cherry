@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 4f2b999235dd49cc9883028fe81cf4d7
+timeCreated: 1629915329
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203601
+  packageName: Doozy UI Manager
+  packageVersion: 4.8.1
+  assetPath: Assets/Doozy/Editor/UIManager/Editors/Components/UIToggleEditor.cs
+  uploadId: 556278

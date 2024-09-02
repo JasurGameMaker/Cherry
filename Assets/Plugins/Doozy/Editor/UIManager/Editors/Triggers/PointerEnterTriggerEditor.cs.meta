@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 7c56e9ed59d94301850f8352831368c1
+timeCreated: 1628093636
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203601
+  packageName: Doozy UI Manager
+  packageVersion: 4.8.1
+  assetPath: Assets/Doozy/Editor/UIManager/Editors/Triggers/PointerEnterTriggerEditor.cs
+  uploadId: 556278

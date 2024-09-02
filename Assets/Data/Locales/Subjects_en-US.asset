@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Subjects_en-US
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en-US
+  m_SharedData: {fileID: 11400000, guid: 1a24066fad202cc4089d1f1780c49aa9, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 51121405952
+    m_Localized: History
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60558589952
+    m_Localized: Physics
+    m_Metadata:
+      m_Items: []
+  - m_Id: 89499287552
+    m_Localized: Chemistry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 109489340416
+    m_Localized: Biology
+    m_Metadata:
+      m_Items: []
+  - m_Id: 132801282048
+    m_Localized: Literature
+    m_Metadata:
+      m_Items: []
+  - m_Id: 159649021952
+    m_Localized: Geography
+    m_Metadata:
+      m_Items: []
+  - m_Id: 176845668352
+    m_Localized: Astronomy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26240794624
+    m_Localized: Math
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5982306304
+    m_Localized: Anatomy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3200853923250176
+    m_Localized: Natural science
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3200900190617600
+    m_Localized: This is a set of disciplines that explore the phenomena and processes
+      of nature. The main fields of natural sciences include physics, chemistry,
+      biology, astronomy, geology and ecology. Natural sciences play a key role in
+      the development of technology and improving the quality of life by providing
+      fundamental knowledge about nature and its laws.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3201238868082688
+    m_Localized: Exact science
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3201271931781120
+    m_Localized: This is a set of disciplines that explore the phenomena and processes
+      of nature. The main fields of natural sciences include physics, chemistry,
+      biology, astronomy, geology and ecology. Natural sciences play a key role in
+      the development of technology and improving the quality of life by providing
+      fundamental knowledge about nature and its laws.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3201532913958912
+    m_Localized: Humanitarian science
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3201584831053824
+    m_Localized: This is a set of disciplines that explore the phenomena and processes
+      of nature. The main fields of natural sciences include physics, chemistry,
+      biology, astronomy, geology and ecology. Natural sciences play a key role in
+      the development of technology and improving the quality of life by providing
+      fundamental knowledge about nature and its laws.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

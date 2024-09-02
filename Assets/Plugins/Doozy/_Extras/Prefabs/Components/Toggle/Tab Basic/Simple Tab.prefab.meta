@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fe753880e2b53a04fbfcad81242925b5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203601
+  packageName: Doozy UI Manager
+  packageVersion: 4.8.1
+  assetPath: Assets/Doozy/_Extras/Prefabs/Components/Toggle/Tab Basic/Simple Tab.prefab
+  uploadId: 556278

@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 618bee0cdfea4680bacffab0f9f8a739
+timeCreated: 1648208444
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203601
+  packageName: Doozy UI Manager
+  packageVersion: 4.8.1
+  assetPath: Assets/Doozy/Editor/Reactor/Automation/Templates/ProgressorIdExtension.cst
+  uploadId: 556278

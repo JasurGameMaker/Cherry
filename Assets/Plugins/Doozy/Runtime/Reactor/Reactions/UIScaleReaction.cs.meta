@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 0cf71fdd52194c3d92743001d6847c71
+timeCreated: 1623683890
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203601
+  packageName: Doozy UI Manager
+  packageVersion: 4.8.1
+  assetPath: Assets/Doozy/Runtime/Reactor/Reactions/UIScaleReaction.cs
+  uploadId: 556278

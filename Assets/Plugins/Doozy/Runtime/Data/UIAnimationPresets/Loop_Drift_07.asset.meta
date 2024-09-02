@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0b86044924682e74ab8c275999215d22
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203601
+  packageName: Doozy UI Manager
+  packageVersion: 4.8.1
+  assetPath: Assets/Doozy/Runtime/Data/UIAnimationPresets/Loop_Drift_07.asset
+  uploadId: 556278

@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: b2dd616d786f4ff0bfe606b26bab02ed
+timeCreated: 1669986457
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203601
+  packageName: Doozy UI Manager
+  packageVersion: 4.8.1
+  assetPath: Assets/Doozy/Runtime/UIManager/Orientation/DetectedOrientationEvent.cs
+  uploadId: 556278

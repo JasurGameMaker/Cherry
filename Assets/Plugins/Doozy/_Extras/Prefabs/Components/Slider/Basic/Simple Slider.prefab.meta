@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3786c2a6a16d2ff4d84679f97cfa8f85
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203601
+  packageName: Doozy UI Manager
+  packageVersion: 4.8.1
+  assetPath: Assets/Doozy/_Extras/Prefabs/Components/Slider/Basic/Simple Slider.prefab
+  uploadId: 556278

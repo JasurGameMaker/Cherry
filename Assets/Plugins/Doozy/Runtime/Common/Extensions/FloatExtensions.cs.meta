@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: c76512e795d04cdab4e3c4f5741d50ec
+timeCreated: 1614441354
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203601
+  packageName: Doozy UI Manager
+  packageVersion: 4.8.1
+  assetPath: Assets/Doozy/Runtime/Common/Extensions/FloatExtensions.cs
+  uploadId: 556278

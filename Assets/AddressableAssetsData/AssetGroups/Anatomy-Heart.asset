@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Anatomy-Heart
+  m_EditorClassIdentifier: 
+  m_GroupName: Anatomy-Heart
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 03761e4e182aabb45977abca7a04da63
+  m_SerializeEntries:
+  - m_GUID: 8406de035ef2d164eba9d09ecee5b6cb
+    m_Address: heart_preview
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 62f6bf19b9b54824f92f9d225e48821c
+    m_Address: Heart
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 26fe2df852fd6814cbe6bc7f477b69ec
+    m_Address: Anatomy-Heart_en-US
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Locale-en-US
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 825e93f7d6cdd2e4c97ca16057825349
+    m_Address: Heart-ru.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: efa291e02742af845a6aaf5b96145ddf
+    m_Address: Heart-uzb.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3ce788cf8864f79448a580e8e489b092
+    m_Address: Heart-en.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fcc4f8c1a4d815a49a11c7da24f9ea8f
+    m_Address: Anatomy-Heart_uz
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Locale-uz
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4130fec84c64a1e429f41e47bb94521c
+    m_Address: Anatomy-Heart_ru
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Locale-ru
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2a4b74e9df932654f82e5a76dc8c4cf6
+    m_Address: Assets/Data/Anatomy-Heart Shared Data.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: fd81e67a665ce034fbf42a36c639ef2e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 4fb4beec612f1fc47b69c0d4bc4e3b5a, type: 2}
+    - {fileID: 11400000, guid: c4127a589fe3c6e42877d05855e870af, type: 2}

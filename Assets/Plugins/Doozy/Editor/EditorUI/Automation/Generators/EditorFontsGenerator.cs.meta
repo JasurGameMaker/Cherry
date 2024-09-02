@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 32e0dd5d50b543d1a91972e36df25d9b
+timeCreated: 1616242366
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203601
+  packageName: Doozy UI Manager
+  packageVersion: 4.8.1
+  assetPath: Assets/Doozy/Editor/EditorUI/Automation/Generators/EditorFontsGenerator.cs
+  uploadId: 556278

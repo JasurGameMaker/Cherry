@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: b7bbad1ba6a6494ba5bf6be029102935
+timeCreated: 1628092906
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203601
+  packageName: Doozy UI Manager
+  packageVersion: 4.8.1
+  assetPath: Assets/Doozy/Editor/UIManager/Editors/Triggers/PointerDoubleClickTriggerEditor.cs
+  uploadId: 556278

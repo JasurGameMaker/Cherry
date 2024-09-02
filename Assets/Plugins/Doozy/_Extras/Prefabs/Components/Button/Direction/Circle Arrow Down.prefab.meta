@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 453fb26b7f4c4064ba23ff2f58426d6e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203601
+  packageName: Doozy UI Manager
+  packageVersion: 4.8.1
+  assetPath: Assets/Doozy/_Extras/Prefabs/Components/Button/Direction/Circle Arrow
+    Down.prefab
+  uploadId: 556278

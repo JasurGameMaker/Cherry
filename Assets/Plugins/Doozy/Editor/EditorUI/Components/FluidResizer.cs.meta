@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 8a273a9cbbf54d94aa8a8f98ed7a2482
+timeCreated: 1646084730
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203601
+  packageName: Doozy UI Manager
+  packageVersion: 4.8.1
+  assetPath: Assets/Doozy/Editor/EditorUI/Components/FluidResizer.cs
+  uploadId: 556278

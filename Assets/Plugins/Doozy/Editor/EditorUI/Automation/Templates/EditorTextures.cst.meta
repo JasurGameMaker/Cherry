@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f04e7c4628634281a6a76967f1dcd1df
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203601
+  packageName: Doozy UI Manager
+  packageVersion: 4.8.1
+  assetPath: Assets/Doozy/Editor/EditorUI/Automation/Templates/EditorTextures.cst
+  uploadId: 556278

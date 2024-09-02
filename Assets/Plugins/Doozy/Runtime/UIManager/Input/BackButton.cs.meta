@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c44aaacc9ec444a884be1bb4e3e14356
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: c6f6aa8794b146441bd2a788267a1b82, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203601
+  packageName: Doozy UI Manager
+  packageVersion: 4.8.1
+  assetPath: Assets/Doozy/Runtime/UIManager/Input/BackButton.cs
+  uploadId: 556278

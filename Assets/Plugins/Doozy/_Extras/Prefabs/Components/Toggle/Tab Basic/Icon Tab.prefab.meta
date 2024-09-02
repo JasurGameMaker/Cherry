@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 63c2cee1f20b4cf4ba33fec64ed57c11
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203601
+  packageName: Doozy UI Manager
+  packageVersion: 4.8.1
+  assetPath: Assets/Doozy/_Extras/Prefabs/Components/Toggle/Tab Basic/Icon Tab.prefab
+  uploadId: 556278

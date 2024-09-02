@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: c8bd11ee26674bb7b89649b36d0ae2f0
+timeCreated: 1624524333
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203601
+  packageName: Doozy UI Manager
+  packageVersion: 4.8.1
+  assetPath: Assets/Doozy/Editor/EditorUI/Components/PoolableElement.cs
+  uploadId: 556278

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f26e69a0a6194ccbbbc8cef39c246de8
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203601
+  packageName: Doozy UI Manager
+  packageVersion: 4.8.1
+  assetPath: Assets/Doozy/Editor/EditorUI/Automation/Templates/EditorDataLayoutGroup.cst
+  uploadId: 556278

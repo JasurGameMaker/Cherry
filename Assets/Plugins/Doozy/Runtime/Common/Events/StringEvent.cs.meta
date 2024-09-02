@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: ecda19a7e2544ec5bd178c83e9405d9d
+timeCreated: 1668300974
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203601
+  packageName: Doozy UI Manager
+  packageVersion: 4.8.1
+  assetPath: Assets/Doozy/Runtime/Common/Events/StringEvent.cs
+  uploadId: 556278

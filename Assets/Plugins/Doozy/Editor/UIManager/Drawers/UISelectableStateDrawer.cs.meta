@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: e27716beadcc4b3a8ffeaf3213f46b53
+timeCreated: 1629206240
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203601
+  packageName: Doozy UI Manager
+  packageVersion: 4.8.1
+  assetPath: Assets/Doozy/Editor/UIManager/Drawers/UISelectableStateDrawer.cs
+  uploadId: 556278

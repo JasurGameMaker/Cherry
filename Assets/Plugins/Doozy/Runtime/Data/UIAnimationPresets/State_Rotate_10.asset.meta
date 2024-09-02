@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a45485333d9418a4cb5961d2420ed088
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203601
+  packageName: Doozy UI Manager
+  packageVersion: 4.8.1
+  assetPath: Assets/Doozy/Runtime/Data/UIAnimationPresets/State_Rotate_10.asset
+  uploadId: 556278

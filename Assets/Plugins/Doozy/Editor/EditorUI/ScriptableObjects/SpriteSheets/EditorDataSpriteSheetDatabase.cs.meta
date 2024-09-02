@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: f94ad0219a074e35b256f3f4a54c3e26
+timeCreated: 1645273337
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203601
+  packageName: Doozy UI Manager
+  packageVersion: 4.8.1
+  assetPath: Assets/Doozy/Editor/EditorUI/ScriptableObjects/SpriteSheets/EditorDataSpriteSheetDatabase.cs
+  uploadId: 556278

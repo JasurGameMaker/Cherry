@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c7e8e1d1670a9034b8a62be50bdd06b5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203601
+  packageName: Doozy UI Manager
+  packageVersion: 4.8.1
+  assetPath: Assets/Doozy/Runtime/Data/UIAnimationPresets/Hide_Fade_11.asset
+  uploadId: 556278

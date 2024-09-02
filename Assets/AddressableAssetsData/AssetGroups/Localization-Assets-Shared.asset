@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Shared
+  m_Data:
+    m_SerializedData: []
+  m_GUID: bd21c8b76a0f22d4ebba92c0a2b968a5
+  m_SerializeEntries:
+  - m_GUID: f265099002b754d449aae035b6a0656f
+    m_Address: Assets/Data/Main Menu Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: af02341115cae3a4096711a53e7c503f
+    m_Address: Assets/Data/Locales/Popups Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e35ccbcbff2a3944e960b55d87e280f1
+    m_Address: Assets/Data/Locales/Core-Painting Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1a24066fad202cc4089d1f1780c49aa9
+    m_Address: Assets/Data/Locales/Subjects Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 30443cf3855ef5442b8a9667fa75fcec
+    m_Address: Assets/Data/Locales/Settings Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b048c83c9c312714bb78cbb2b2782459
+    m_Address: Assets/Data/Locales/Lessons/Chemistry-Actinium Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cddcde2b942109443a634114210da0b9
+    m_Address: Assets/Data/Locales/Lessons/Astronomy/Astranomy-Venus Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4143ef0013ca7b14b92d576eeb961b35
+    m_Address: Assets/Data/Locales/Quit Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: fd81e67a665ce034fbf42a36c639ef2e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: fd6caabc3ba7aef4ba5e9e49e99aca95, type: 2}
+    - {fileID: 11400000, guid: a5a530f8af0c1f849ae1161fbbe5ff8a, type: 2}

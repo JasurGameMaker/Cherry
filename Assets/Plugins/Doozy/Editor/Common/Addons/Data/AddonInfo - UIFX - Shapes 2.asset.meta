@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4eb76dadc8a54214b87d0a9e1caa7bec
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203601
+  packageName: Doozy UI Manager
+  packageVersion: 4.8.1
+  assetPath: Assets/Doozy/Editor/Common/Addons/Data/AddonInfo - UIFX - Shapes 2.asset
+  uploadId: 556278

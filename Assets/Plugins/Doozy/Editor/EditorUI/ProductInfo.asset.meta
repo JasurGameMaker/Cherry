@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 23265a06ab9587b498d2395b03969dcf
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203601
+  packageName: Doozy UI Manager
+  packageVersion: 4.8.1
+  assetPath: Assets/Doozy/Editor/EditorUI/ProductInfo.asset
+  uploadId: 556278

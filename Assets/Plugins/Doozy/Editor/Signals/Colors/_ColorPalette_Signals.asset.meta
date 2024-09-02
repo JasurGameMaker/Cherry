@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ed0965bdca9f8ae46998c1febb8b20df
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203601
+  packageName: Doozy UI Manager
+  packageVersion: 4.8.1
+  assetPath: Assets/Doozy/Editor/Signals/Colors/_ColorPalette_Signals.asset
+  uploadId: 556278

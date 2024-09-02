@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 0c6a3ad5ef784c0e868438a91cfd8c44
+timeCreated: 1616697975
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203601
+  packageName: Doozy UI Manager
+  packageVersion: 4.8.1
+  assetPath: Assets/Doozy/Editor/EditorUI/Editors/EditorDataColorPaletteEditor.cs
+  uploadId: 556278

@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: e3118091ab744c58832eeeb5d51f73e0
+timeCreated: 1645276524
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203601
+  packageName: Doozy UI Manager
+  packageVersion: 4.8.1
+  assetPath: Assets/Doozy/Editor/EditorUI/Automation/Templates/EditorSpriteSheets.cst
+  uploadId: 556278

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 59bcd8e85f974d2b82900b859b031dc1
+timeCreated: 1629658376
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203601
+  packageName: Doozy UI Manager
+  packageVersion: 4.8.1
+  assetPath: Assets/Doozy/Editor/Reactor/Drawers/SpriteAnimationDrawer.cs
+  uploadId: 556278

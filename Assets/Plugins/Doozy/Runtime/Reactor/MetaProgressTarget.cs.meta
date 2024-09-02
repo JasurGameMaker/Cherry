@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 67b4d41503444d61bb09e9e63a1f5ee0
+timeCreated: 1639686870
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203601
+  packageName: Doozy UI Manager
+  packageVersion: 4.8.1
+  assetPath: Assets/Doozy/Runtime/Reactor/MetaProgressTarget.cs
+  uploadId: 556278

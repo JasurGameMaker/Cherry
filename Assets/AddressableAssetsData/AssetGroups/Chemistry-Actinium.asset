@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Chemistry-Actinium
+  m_EditorClassIdentifier: 
+  m_GroupName: Chemistry-Actinium
+  m_Data:
+    m_SerializedData: []
+  m_GUID: ceacdf4b9da370c41bd4738041f0b3db
+  m_SerializeEntries:
+  - m_GUID: 44f46ab6acd88a44eaab8ddfe9b12c2f
+    m_Address: Actinium
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b9009e2d7b97a73419aebb8e8f9a6c2c
+    m_Address: Actinium.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 762106cc1c30b11449c5bb55b1fe9ef0
+    m_Address: "\u0410\u043A\u0442\u0438\u043D\u0438\u0439.mp3"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 147830ee2e7292543ab962309c9e8173
+    m_Address: Aktiniy.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e84d48e1c1a332f45966b1fd0b960780
+    m_Address: 0_Venus
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5b50376b6ac66b448b60b6fd9a8a0a82
+    m_Address: Venus layer 3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7f0df6f4b7a43b14caa59cec7e2ccf7f
+    m_Address: Venus layer 2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 07b221be6b4d4284695b3054a0dde51d
+    m_Address: Venus layer 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 715787f057f48c540b87815b0898b0c3
+    m_Address: "\u0412\u0435\u043D\u0435\u0440\u0430"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 944a9173eff1c7b4f84b7a112fe2a92b
+    m_Address: "\u0421\u043B\u043E\u0438_1"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f970217a80972dc40815b747c18be428
+    m_Address: "\u0421\u043B\u043E\u0438_3"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ede8f3b338abe0b488663f3889aded9b
+    m_Address: "\u0421\u043B\u043E\u0438_2"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fba482b22de94584da916c1f1df6bedf
+    m_Address: Astranomiya Venera sayyorasi
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b04ee72c0e88a944f8897e4df6e57447
+    m_Address: Yadro (venera)
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 73abb7f929c92884a9757611a625d0e0
+    m_Address: Mantiya (venera)
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 33166bdbc9b399f4ca7159c3a2476a3d
+    m_Address: Venera sayyorasi
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: fd81e67a665ce034fbf42a36c639ef2e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 277586f22ccaffd4b9645d3d56aa7676, type: 2}
+    - {fileID: 11400000, guid: fb1eaa46aa7777140926b63f0365aaef, type: 2}

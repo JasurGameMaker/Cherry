@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: ddaa391f3ff747abb7b00fbc48330c99
+timeCreated: 1629896945
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203601
+  packageName: Doozy UI Manager
+  packageVersion: 4.8.1
+  assetPath: Assets/Doozy/Runtime/Common/Events/BoolEvent.cs
+  uploadId: 556278

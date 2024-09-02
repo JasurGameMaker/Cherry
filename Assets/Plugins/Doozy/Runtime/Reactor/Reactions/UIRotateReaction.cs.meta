@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: e30d44bdf9af41859d5642714a14126c
+timeCreated: 1623164366
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203601
+  packageName: Doozy UI Manager
+  packageVersion: 4.8.1
+  assetPath: Assets/Doozy/Runtime/Reactor/Reactions/UIRotateReaction.cs
+  uploadId: 556278

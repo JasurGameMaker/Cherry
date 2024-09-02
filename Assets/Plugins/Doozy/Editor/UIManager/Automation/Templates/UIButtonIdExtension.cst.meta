@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 35b80b61192e13346a0e53916d59951b
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203601
+  packageName: Doozy UI Manager
+  packageVersion: 4.8.1
+  assetPath: Assets/Doozy/Editor/UIManager/Automation/Templates/UIButtonIdExtension.cst
+  uploadId: 556278

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4c007acea13cc2248a37f23211a222d7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203601
+  packageName: Doozy UI Manager
+  packageVersion: 4.8.1
+  assetPath: Assets/Doozy/Editor/UIManager/Editor/_StyleGroup_UIManager.asset
+  uploadId: 556278

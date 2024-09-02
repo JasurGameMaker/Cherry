@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 88dbc1a6647b419f84a6ac991377be2f
+timeCreated: 1648504920
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203601
+  packageName: Doozy UI Manager
+  packageVersion: 4.8.1
+  assetPath: Assets/Doozy/Runtime/Reactor/Reactions/ReflectedVector2Reaction.cs
+  uploadId: 556278

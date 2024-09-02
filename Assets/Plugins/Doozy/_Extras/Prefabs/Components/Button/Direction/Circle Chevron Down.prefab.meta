@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 445b1be600f78f54383f246c8562c4a3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203601
+  packageName: Doozy UI Manager
+  packageVersion: 4.8.1
+  assetPath: Assets/Doozy/_Extras/Prefabs/Components/Button/Direction/Circle Chevron
+    Down.prefab
+  uploadId: 556278

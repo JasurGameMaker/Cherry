@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 7f052cfd5cba4af09d4da1be49bc6565
+timeCreated: 1625562904
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203601
+  packageName: Doozy UI Manager
+  packageVersion: 4.8.1
+  assetPath: Assets/Doozy/Editor/UIManager/Interfaces/IUIManagerWindowLayout.cs
+  uploadId: 556278

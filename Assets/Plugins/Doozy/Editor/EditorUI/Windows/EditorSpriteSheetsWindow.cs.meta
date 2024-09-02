@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 00a51c59eeb34324a8e49cf8e5fde888
+timeCreated: 1645284469
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203601
+  packageName: Doozy UI Manager
+  packageVersion: 4.8.1
+  assetPath: Assets/Doozy/Editor/EditorUI/Windows/EditorSpriteSheetsWindow.cs
+  uploadId: 556278

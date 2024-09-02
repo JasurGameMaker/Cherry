@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 284ea54d765fdba42b8adaa2e66910cd
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203601
+  packageName: Doozy UI Manager
+  packageVersion: 4.8.1
+  assetPath: Assets/Doozy/Editor/EditorUI/Automation/Templates/EditorFonts.cst
+  uploadId: 556278

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: e89e1a05aafa48de9a8d1c1bb003d254
+timeCreated: 1617895635
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203601
+  packageName: Doozy UI Manager
+  packageVersion: 4.8.1
+  assetPath: Assets/Doozy/Runtime/Reactor/Easings/Eases/EasyEaseInOutEasing.cs
+  uploadId: 556278

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a6429b30f72e3024dad22daaa32ccdd8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203601
+  packageName: Doozy UI Manager
+  packageVersion: 4.8.1
+  assetPath: Assets/Doozy/Editor/Common/Addons/Data/AddonInfo - UIFX - Electric 1.asset
+  uploadId: 556278

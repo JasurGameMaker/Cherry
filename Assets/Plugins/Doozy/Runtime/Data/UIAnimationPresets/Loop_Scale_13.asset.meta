@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7f3721f19219b1b499e719b23db3d0a6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203601
+  packageName: Doozy UI Manager
+  packageVersion: 4.8.1
+  assetPath: Assets/Doozy/Runtime/Data/UIAnimationPresets/Loop_Scale_13.asset
+  uploadId: 556278

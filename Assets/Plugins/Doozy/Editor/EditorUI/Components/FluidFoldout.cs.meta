@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 2bc5a7a9cbb447dca1b842dd5743406b
+timeCreated: 1617786024
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203601
+  packageName: Doozy UI Manager
+  packageVersion: 4.8.1
+  assetPath: Assets/Doozy/Editor/EditorUI/Components/FluidFoldout.cs
+  uploadId: 556278

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a4478f73f3891c64ab53b15dda997aa2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203601
+  packageName: Doozy UI Manager
+  packageVersion: 4.8.1
+  assetPath: Assets/Doozy/Editor/Data/NodySettings.asset
+  uploadId: 556278
